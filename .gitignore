@@ -1,5 +1,6 @@
 # Arquivo oculto do macOS
 .DS_Store
+outprog/
 
 # Arquivo executável do seu projeto
 prog
