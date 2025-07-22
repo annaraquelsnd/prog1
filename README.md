@@ -20,7 +20,7 @@ ListaX/
 ```
 ### Script de Testes: `fazdiff.sh`
 
-No repositório principal há um script chamado `fazdiff.sh`, usado para **testar meus códigos automaticamente** comparando as saídas das minhas soluções com os arquivos de teste fornecidos.
+Na master, há um script chamado `fazdiff.sh`, usado para **testar meus códigos automaticamente** comparando as saídas das minhas soluções com os arquivos de teste fornecidos.
 
 Ele executa arquivos nomeados `prog` com as entradas presentes no diretório `input/` e envia as saídas para um diretório chamado `outprog/` da seguinte forma:
 ```
